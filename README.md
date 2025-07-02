@@ -1,6 +1,6 @@
 # OrcaUi
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.10.
+[OrcaUi Live Demo](https://collisionless.github.io/orca-ui/)
 
 ## ghPages
 ```bash
