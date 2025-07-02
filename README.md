@@ -5,7 +5,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 ## ghPages
 ```bash
 npm install -D angular-cli-ghpages
-ng build --base-href="https://alextmn.github.io/orca-ui/"
+ng build --base-href="https://collisionless.github.io/orca-ui/"
 npx angular-cli-ghpages --dir=dist/orca-ui/browser
 ```
 ## Development server
